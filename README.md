@@ -1,1 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/nWQdyJGq)
+Author: Jorge Bocobo
+Date: February 26, 2025
+Section: CMSC 100 U-3L
+Exercise 4 
+
+Takeaways: Today I learned about packages in Javascript and how you as a programmer can utilize it to ease your work, and make your code clean.
